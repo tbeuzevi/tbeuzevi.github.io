@@ -10,3 +10,6 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+      - CHOKIDAR_USEPOLLING=true   # Forces polling for file changes on Windows
+    command: >
+      bash -c "bundle exec jekyll serve --host 0.0.0.0 --port 8080 --watch --livereload --force_polling"
