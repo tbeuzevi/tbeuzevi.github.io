@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-##### A list of courses that I have taught at French engineering school ([Grande école](https://en.wikipedia.org/wiki/Grande_%C3%A9cole)) [ENSEEIHT](https://www.enseeiht.fr/fr/index.html).
+##### A list of courses that I have taught at French engineering school ([Grande École](https://en.wikipedia.org/wiki/Grande_%C3%A9cole)) [ENSEEIHT](https://www.enseeiht.fr/fr/index.html).
 
 
 ---
