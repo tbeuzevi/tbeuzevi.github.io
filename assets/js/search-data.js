@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "Peer-reviewed publications in scientific journals, reports, and thesis.",
+          description: "Peer-reviewed publications in scientific journals, patents, reports, and thesis.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "A list of courses that I have taught.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
