@@ -2,10 +2,63 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: A list of courses that I have taught.
+description: 
 nav: true
 nav_order: 6
 ---
+##### A list of courses that I have taught at French engineering school ([Grande école](https://en.wikipedia.org/wiki/Grande_%C3%A9cole)) [ENSEEIHT](https://www.enseeiht.fr/fr/index.html).
+
+
+---
+
+#### Machine Learning
+ 
+**Responsibilities:** Lab instructor, contributed to assignment design, evaluated projects through oral examinations.  
+
+**Audience:** Master’s level.
+
+**Description:** Statistical learning: regression and classification, linear models, decision trees, model aggregation methods (Bagging, Random Forests, Boosting). Neural networks and introduction to deep learning: definitions, activation functions, multilayer perceptrons, backpropagation algorithms, optimization methods, and regularization. Convolutional neural networks (applications to image classification and object detection).
+
+---
+
+#### [Applied Mathematics](https://github.com/ocourses/kaplan)
+ 
+**Responsibilities:** Lab instructor, design of lab assignments and projects, project evaluation.  
+
+**Audience:** Undergraduate – Higher school preparatory classes.
+
+**Description:** Introduction to ordinary differential equations and parameter estimation in linear ODEs.
+
+---
+
+#### Scientific Computing
+
+**Responsibilities:** Tutorial and lab instructor, project supervision and evaluation.  
+
+**Audience:** Bachelor’s level.
+
+**Description:** Singular Value Decomposition and pseudo-inverse of a matrix with applications. Numerical error analysis (forward and backward errors) and matrix conditioning. Dense matrix factorizations for solving linear systems: LU, Cholesky, and QR methods.
+
+---
+
+#### [Integration and Measure Theory](https://gitlab.irit.fr/toc/etu-n7/integration)
+
+**Responsibilities:** Tutorial instructor, exam grading. 
+
+**Audience:** Bachelor’s level.
+
+**Description:** Introduction to measure theory, construction of the Lebesgue integral, and presentation of the main integration theorems (dominated convergence, Fubini, etc.).
+
+---
+
+#### [Optimization and Partial Differential Equations](https://gitlab.irit.fr/toc/etu-n7/optimisation)
+
+**Responsibilities:** Tutorial and lab instructor, exam evaluation.  
+
+**Audience:** Bachelor’s level.
+
+**Description:** Examples of optimization problems and their mathematical modeling, differentiability, Taylor expansions, convexity, existence and uniqueness of solutions, necessary and sufficient optimality conditions for unconstrained problems, least squares problems, and introduction to Newton and Gauss–Newton methods.  
+Finite difference methods: consistency, stability, and convergence of numerical schemes for time-evolution problems.
 
 ---
 
@@ -19,7 +72,16 @@ nav_order: 6
 
 ---
 
-#### Control Theory
+#### [Control Theory](https://gitlab.irit.fr/toc/etu-n7/controle-optimal)
+**Responsibilities:** Lab instructor, project evaluation.  
+
+**Audience:** Master's level.
+
+**Description:** The objective of this course is to present techniques for analyzing and solving optimal control problems in nonlinear ordinary differential equations. We consider a dynamical system that can be influenced through a control variable. Solving an optimal control problem consists in determining a trajectory, together with the corresponding control, that allows, for example, reaching a prescribed final target starting from a given initial configuration.
+
+---
+
+#### [Control Engineering](https://gitlab.irit.fr/toc/etu-n7/automatique)
 
 **Responsibilities:** Lab instructor, project evaluation.  
 
@@ -39,26 +101,6 @@ nav_order: 6
 
 ---
 
-#### Scientific Computing
-
-**Responsibilities:** Tutorial and lab instructor, project supervision and evaluation.  
-
-**Audience:** Bachelor’s level.
-
-**Description:** Singular Value Decomposition and pseudo-inverse of a matrix with applications. Numerical error analysis (forward and backward errors) and matrix conditioning. Dense matrix factorizations for solving linear systems: LU, Cholesky, and QR methods.
-
----
-
-#### Integration
-
-**Responsibilities:** Tutorial instructor, exam grading. 
-
-**Audience:** Bachelor’s level.
-
-**Description:** Introduction to measure theory, construction of the Lebesgue integral, and presentation of the main integration theorems (dominated convergence, Fubini, etc.).
-
----
-
 #### C Programming
  
 **Responsibilities:** Lab instructor, project evaluation.  
@@ -69,26 +111,6 @@ nav_order: 6
 
 ---
 
-#### Machine Learning
- 
-**Responsibilities:** Lab instructor, contributed to assignment design, evaluated projects through oral examinations.  
-
-**Audience:** Master’s level.
-
-**Description:** Statistical learning: regression and classification, linear models, decision trees, model aggregation methods (Bagging, Random Forests, Boosting). Neural networks and introduction to deep learning: definitions, activation functions, multilayer perceptrons, backpropagation algorithms, optimization methods, and regularization. Convolutional neural networks (applications to image classification and object detection).
-
----
-
-#### Applied Mathematics
- 
-**Responsibilities:** Lab instructor, design of lab assignments and projects, project evaluation.  
-
-**Audience:** Undergraduate – Higher school preparatory classes.
-
-**Description:** Introduction to ordinary differential equations and parameter estimation in linear ODEs.
-
----
-
 #### OpenMP
 
 **Responsibilities:** Lab instructor.
@@ -96,17 +118,6 @@ nav_order: 6
 **Audience:** Master’s level.
 
 **Description:** Parallel programming with OpenMP: parallel regions, synchronization directives, parallel loops, race conditions, and task-based parallelism.
-
----
-
-#### Optimization and Partial Differential Equations
-
-**Responsibilities:** Tutorial and lab instructor, exam evaluation.  
-
-**Audience:** Bachelor’s level.
-
-**Description:** Examples of optimization problems and their mathematical modeling, differentiability, Taylor expansions, convexity, existence and uniqueness of solutions, necessary and sufficient optimality conditions for unconstrained problems, least squares problems, and introduction to Newton and Gauss–Newton methods.  
-Finite difference methods: consistency, stability, and convergence of numerical schemes for time-evolution problems.
 
 ---
 

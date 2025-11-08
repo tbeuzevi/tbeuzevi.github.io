@@ -1,12 +1,12 @@
 {
   "basics": {
     "name:": "Théo Beuzeville",
-    "label:": "Postdoctoral researcher in Applied Mathematics and Computer Science specializing in Numerical Error Analysis for algorithms in Artificial Intelligence",
+    "label:": "",
     "image": "",
     "email:": "theo.beuzeville@toulouse-inp.fr",
     "phone": "",
     "url:": "https://tbeuzevi.github.io/",
-    "summary:": "The aim of my research is to provide tools to better understand, explain, and predict the sensitivity of artificial neural networks to various types of perturbations. To this end, I extend to artificial neural networks some well-known concepts from numerical linear algebra, such as condition number and backward error, which led to contributions in adversarial attacks and rounding error analysis, as well as practical applications.",
+    "summary:": "",
     "location": {
       "address": "",
       "postalCode": "",
