@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Toulouse Institute for Computer Science Research (IRIT),</p>
-    <p>University of Toulouse,</p>
-    <p>Toulouse, France</p>
+    <p>School of Mathematics,</p>
+    <p>University of Edinburgh,</p>
+    <p>Edinburgh, Scotland</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher specializing in numerical error analysis for algorithms in artificial intelligence. I received an [Engineering Degree](https://en.wikipedia.org/wiki/Dipl%C3%B4me_d%27Ing%C3%A9nieur) in Applied Mathematics and Computer Science from the French [Grande École](https://en.wikipedia.org/wiki/Grande_%C3%A9cole) [ENSEEIHT](https://www.enseeiht.fr/fr/index.html) and a Master of Science in Computer Science from [Université de Toulouse](https://www.univ-tlse3.fr/) in 2020. I completed my PhD thesis in 2024 at [Université de Toulouse](https://www.univ-toulouse.fr/), under the supervision of [Alfredo Buttari](https://abuttari.gitlab.io/), [Théo Mary](https://tmary.perso.lip6.fr/), and [Serge Gratton](https://scholar.google.com/citations?user=q9HdQc4AAAAJ&hl=fr).
+I am a postdoctoral researcher specializing in numerical error analysis for algorithms in artificial intelligence working at the [University of Edinburgh](https://www.ed.ac.uk/) under the supervision of Professor [Des Higham](https://webhomes.maths.ed.ac.uk/~dhigham/). I received an [Engineering Degree](https://en.wikipedia.org/wiki/Dipl%C3%B4me_d%27Ing%C3%A9nieur) in Applied Mathematics and Computer Science from the French [Grande École](https://en.wikipedia.org/wiki/Grande_%C3%A9cole) [ENSEEIHT](https://www.enseeiht.fr/fr/index.html) and a Master of Science in Computer Science from [Université de Toulouse](https://www.univ-tlse3.fr/) in 2020. I completed my PhD thesis in 2024 at [Université de Toulouse](https://www.univ-toulouse.fr/), under the supervision of [Alfredo Buttari](https://abuttari.gitlab.io/), [Théo Mary](https://tmary.perso.lip6.fr/), and [Serge Gratton](https://scholar.google.com/citations?user=q9HdQc4AAAAJ&hl=fr).
 
 The aim of my research is to provide tools to better understand, explain, and predict the sensitivity of artificial neural networks to various types of perturbations. To this end, I extend to artificial neural networks some well-known concepts from numerical linear algebra, such as condition number and backward error, which led to [contributions](/publications/) in adversarial attacks and rounding error analysis, as well as practical applications.
