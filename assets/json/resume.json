@@ -3,15 +3,15 @@
     "name:": "Théo Beuzeville",
     "label:": "",
     "image": "",
-    "email:": "theo.beuzeville@toulouse-inp.fr",
+    "email:": "tbeuzevi@ed.ac.uk",
     "phone": "",
     "url:": "https://tbeuzevi.github.io/",
     "summary:": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Toulouse",
-      "countryCode": "FR",
+      "city": "Edinburgh",
+      "countryCode": "GB",
       "region": ""
     },
     "profiles": [
@@ -23,6 +23,15 @@
     ]
   },
   "work": [
+    {
+      "name": "University of Edinburgh - School of Mathematics",
+      "position": "Postdoctoral Research Associate",
+      "location": "Edinburgh, Scotland",
+      "url": "",
+      "startDate": "2026",
+      "endDate": "Ongoing",
+      "summary": "Postdoctoral research position focused on Numerical Analysis for Stable AI."
+    },
     {
       "name": "Toulouse INP–ENSEEIHT - IRIT",
       "position": "Research and Teaching Assistant",
